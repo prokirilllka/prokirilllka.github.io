@@ -1,0 +1,393 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+    .container {
+        position: relative;
+        width: 1140px;
+        margin: 0 auto;
+    }
+
+
+    .promo {
+        min-height: 802px;
+        background: url("images/main_bg.png") center center/cover no-repeat;
+        padding: 38px 0 62px 0;
+    }
+
+
+    .promo_logo .promo_logo-img {
+        display:block;
+        margin: 0 auto;
+    }
+
+
+    .promo_logo .promo_logo-text {
+        color: white;
+        font-size: 15px;
+        font-weight: 500;
+        line-height: 24px;
+        text-transform: uppercase;
+        text-align: center;
+        margin: top 10px;
+    }
+
+
+    h1 {
+        margin-top: 53px;
+    }
+
+
+.promo_title {
+    font-weight: 900;
+    font-size: 41px;
+    line-height: 41px;
+    color: #F9BF3B;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+.promo h2 {
+    margin-top: 21px;
+}
+
+.promo_title-big {
+    font-weight: 900;
+    font-size: 80px;
+    line-height: 80px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+.promo_text {
+    margin-top: 23px;
+    text-align: center;
+font-weight: 300;
+font-size: 21px;
+line-height: 28px;
+color: white;
+}
+
+
+.promo_text span {
+    color: #F9BF3B;
+    font-weight: 700;
+}
+
+
+
+.promo_btn {
+    display: block;
+    height: 72px;
+    width: 313px;
+    margin: 73px auto 0 auto ;
+    background: linear-gradient(0deg, #2798B9 0%, #3AB6DA 100%);
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+font-size: 21px;
+line-height:24px ;
+color: white;
+text-transform: uppercase;
+cursor: pointer;
+font-weight: 400;
+}
+
+.promo_more {
+    margin-top: 71px;
+}
+
+
+.promo_more .promo_more-text {
+    font-weight: 200;
+    font-size: 15px;
+    line-height: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+
+}
+
+
+.promo_more .promo_more-img {
+    display: block;
+    margin: 5px auto 0 auto;
+}
+
+
+.second {
+    min-height: 607px;
+    background: #efefefde;
+    padding: 88px 0 75px 0;
+}
+
+
+.second_title {
+    font-size: 30px;
+    line-height: 30px;
+    font-weight: 400;
+    text-align: center;
+    text-transform: uppercase;
+    color: #252525;
+}
+
+
+.waiting_divider {
+    width: 220px;
+    height: 7px;
+    background: #F9BF3B;
+    margin: 18px auto 0 auto;
+}
+
+
+.des {
+    color: #4A4A4A;
+    text-align: center;
+    font-weight: 400;
+    margin-top: 19px;
+    font-size: 23px;
+}
+
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 46px;
+}
+
+
+.wrapper .item {
+    text-align: center;
+    width: 342px;
+}
+
+
+.wrapper .item .img {
+    width: 100%;
+}
+
+
+.wrapper .item .img .text2 {
+    margin-top: 26px;
+    font-weight: 300;
+    line-height: 21px;
+    color: #4A4A4A; 
+}
+
+
+.third {
+    background: url("images/second_bg.png") center center/cover no-repeat;
+    min-height: 480px;
+    }
+
+
+    .study {
+        position: relative;
+        text-align: center;
+        color: white;
+        font-weight: 300;
+        font-size:22px;
+        padding-top: 80px;
+    }
+
+
+    .third__wrapper{
+        margin-top: 39px;
+      display: flex;
+      justify-content:space-between ;
+     
+    }
+
+
+  .third__item {
+      width: 204px;
+  }
+
+  .third__round {
+      height: 118px;
+      width: 118px;
+      background: #B4E2FF;
+      border-radius: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
+  }
+
+
+  .third__descr {
+      text-align: center;
+      margin-top: 25px;
+      font-weight: 300;
+    font-size: 17px;
+    color: #EFEFEF;
+  }
+
+
+
+
+
+    .four {
+        min-height: 600px;
+        background: url(images/Задний\ фон.png) center center/cover no-repeat;
+    }
+
+
+    .gift {
+       padding-left: 43%;
+       padding-top: 80px;
+
+        
+    }
+
+
+      .p_gift{
+        text-align: center;
+        padding-top: 40px;
+        font-weight: 400;
+        font-size: 23px;
+    }
+
+
+    .intensiv {
+        display: block;
+        background: linear-gradient(0deg, #2798B9 0%, #3AB6DA 100%);
+        margin-left: 405px;
+        margin-top: 40px;
+       padding: 18px;
+       line-height:24px ;
+       text-transform: uppercase;
+       box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+        font-size: 21px;
+        color: rgba(255, 255, 255, 1);
+        cursor: pointer;
+    }
+
+
+    .fifth {
+        background: white;
+        min-height: 450px;
+    }
+
+
+    .one_more  {
+        display: flex;
+        justify-content: center;
+        padding-top: 80px;
+    }
+
+
+    .vebinar {
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 25px;
+        padding-top: 20px;
+    }
+
+    .date {
+        color: rgba(41, 156, 189, 1);
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 25px;
+        font-weight: 450;
+    }
+
+
+    .soon {
+        text-align: center;
+        padding-top: 20px;
+        font-size: 18px;
+    }
+
+
+    .sixth {
+        background: url(images/Фон.png);
+        min-height: 150px;
+    }
+
+
+    .help { 
+        padding-top: 60px;
+        text-align: center;
+        color: rgba(255, 255, 255, 0.692);
+        font-weight: 200;
+        font-size: 13px;
+    }
+
+
+    .number {
+        padding-top: 5px;
+        text-align: center;
+        color: rgba(255, 255, 255, 0.692);
+        font-weight: 200;
+        font-size: 13px;
+    }
+
+    .sixth a {
+        text-decoration: none;
+        color: rgba(255, 255, 255, 0.692);
+    }
+
+
+
+    .girl {
+        min-height: 550px;
+        padding: 108px 0 74px 0;
+    }
+
+
+    .girl__header {
+        margin-left: 382px;
+        color: #299cbd;
+        font-weight: 900;
+        font-size: 30px;
+        text-transform: uppercase;
+    }
+
+
+    .girl__text {
+        margin-left: 382px;
+        margin-top: 10px;
+        font-size: 17;
+        font-weight: 300;
+        color: #4a4a4a;
+    }
+
+
+    .girl__text span {
+    font-weight: 700;
+    }
+
+
+    .girl__img {
+        position: absolute;
+        z-index: -1;
+        top: -61px;
+        left: -243px;
+    }
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
